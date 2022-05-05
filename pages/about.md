@@ -16,7 +16,7 @@ credits: true
 
 KMdancefilms work is largely experimental, combining site-specific improvisation with self-filming practices. It also investigates the effects of various lighting with costume and choreography. The multimedia projects focus on similar concepts, frequently attempting to cast footage on the moving body and non-linear surfaces.
 
-{% include feature/item-feature.html objectid="KMdance002" width="25" %}
+{% include feature/image.html objectid="KMdance002" width="75" %}
 
 ## About the Collection
 
